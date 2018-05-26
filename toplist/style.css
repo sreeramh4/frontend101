@@ -2,6 +2,11 @@
    outline: 1px solid red !important;
 }
 
+.content {
+    display: -webkit-flex;
+    display: flex;
+}
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
