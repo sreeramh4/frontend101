@@ -8,6 +8,12 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+@media only screen and (max-width: 300px){
+    p{
+        background-color: blue
+    }
+}
 /* an outer div that will contain all your other divs.
  The purpose of it is to limit the max-width of the page and center content
  in case your user is looking at the page on a very large screen.
