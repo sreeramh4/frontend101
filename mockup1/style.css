@@ -8,6 +8,11 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+/* *{} implies it applies to all the elements on the page*/
+*{
+	font-family: 'Open Sans', sans-serif;
+}
 .grid {
     margin: 0 auto;
     max-width: 1200px;
