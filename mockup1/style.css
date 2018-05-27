@@ -40,6 +40,8 @@
 .col-4 {
     width: 33.33%;
     text-align: center;
+    padding: 5px;
+    color: #5b5858;
 }
 
 .col-5 {
@@ -76,5 +78,7 @@
 
 .col-12 {
     width: 100%;
-    text-align: center;
+    text-align: left;
+    padding: 5px;
+    color: #BCBBBB;
 }
