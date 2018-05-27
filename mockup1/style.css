@@ -1,8 +1,8 @@
-/*
+
 * {
     border: 1px solid red !important;
 }
-*/
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -25,7 +25,12 @@
     display: flex;
     flex-wrap: wrap;
 }
-
+.row2{
+	width: 50%;
+	display: flex;
+	align-items: right;
+	flex-direction: column;
+}
 .center {
     display: block;
     margin-left: auto;
@@ -52,12 +57,13 @@
 
 .col-5 {
     width: 41.66%;
+    text-align: right;
 }
 
 .col-6 {
     width: 50%;
     text-align: right;
-    padding: 10px;
+    padding: 20px;
     font-size: 300%;
     font-weight: 300;
 }
@@ -85,6 +91,6 @@
 .col-12 {
     width: 100%;
     text-align: left;
-    padding: 5px;
+    padding: 20px;
     color: #BCBBBB;
 }
