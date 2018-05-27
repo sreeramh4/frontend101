@@ -11,7 +11,7 @@
 
 /* *{} implies it applies to all the elements on the page*/
 *{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 .grid {
     margin: 0 auto;
@@ -21,7 +21,6 @@
 
 .row {
     width: 100%;
-    margin-bottom: 20px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -40,7 +39,7 @@
 
 .col-4 {
     width: 33.33%;
-    padding: 10px;
+    text-align: center;
 }
 
 .col-5 {
@@ -52,6 +51,7 @@
     text-align: right;
     padding: 10px;
     font-size: 300%;
+    font-weight: 300;
 }
 
 .col-7 {
@@ -76,4 +76,5 @@
 
 .col-12 {
     width: 100%;
+    text-align: center;
 }
