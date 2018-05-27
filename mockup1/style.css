@@ -1,7 +1,8 @@
+/*
 * {
     border: 1px solid red !important;
 }
-
+*/
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -25,6 +26,11 @@
     flex-wrap: wrap;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .col-1 {
     width: 8.33%;
 }
