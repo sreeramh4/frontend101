@@ -6,6 +6,7 @@ Folders are in the order
 2. Frameworks - How to build a framework
 3. Mockup1 - How to create a framework from a design and implement it
   using HTML and CSS
+4. Bootsrap - Using features of Bootstrap to create framework.
   
 Reference Websites
 
@@ -41,3 +42,6 @@ You can also use a more advanced and automated workflow where minified CSS files
 Grunt - https://gruntjs.com/
 Gulp - https://gulpjs.com/
 webpack. - https://webpack.github.io/
+
+10. Instructions on how to use Developer Tools Shortcuts:
+https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools
