@@ -1,0 +1,23 @@
+/*body indicates applicable to the whole body of the page*/
+/*Use this font if possible, else substitute with whatever sans-serif font you have lying around ;) */
+body{
+	font-family: 'Lato', sans-serif;
+	color: #7C8B88;
+	font-weight: 300;
+}
+
+.text-muted{
+	color:#BCBBBB;
+}
+
+.text-thin{
+	font-weight: 100;
+}
+
+.title-logo{
+	margin-top: 20px;
+}
+
+.title-super{
+	font-size:400%;
+}
